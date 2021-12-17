@@ -1,5 +1,5 @@
-# smart-brain-api App
-## Smart-brain-api(server) is the backend code of this amazing about , that's detect faces in your images, why not try it yourself by simply following these steps 🤩 :
+# SmartBrain-api App :
+## Smart-brain-api is the backend code of this amazing app that's detect faces in your images, why not try it yourself by simply following these steps 🤩 :
 
 ### in your terminal type :
 1. `git clone [repository link]`
