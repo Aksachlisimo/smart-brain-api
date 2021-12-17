@@ -9,4 +9,4 @@
 5. `git pull` 
 
 
-#### here is the link for the front-end code of this App : 
+#### here is the link for the front-end code of this App : https://github.com/Aksachlisimo/smart-brain.git
